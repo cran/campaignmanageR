@@ -1,0 +1,15 @@
+824e6477e8eda05aa0aa68708bc439a6 *DESCRIPTION
+c38aa2d7471a12b596080337b1a10452 *NAMESPACE
+2ff25feaf91dfe1c1a01d6e700fd89c6 *NEWS.md
+35ea1b876a00c95a22ac52e552e5b6bc *R/get_campaignmanager_data.R
+5558b63cc9e663e532f72892b1b47ba7 *R/my_campaignmanager_data.R
+a18fbc3a7ccb43bcb0fc8758cbcbcefa *README.md
+77001896a77d1cb481ff42b2a5411b1a *build/vignette.rds
+4cb1293ce254e17801d8d620eb87fee1 *data/my_campaignmanager_data.RData
+2781d268b9ce552f8df6b3db5c553836 *inst/doc/tutorial.R
+3b502df91d863beb9c3756a970b83741 *inst/doc/tutorial.Rmd
+c466f0744f7fdd38d508e2a2666d378f *inst/doc/tutorial.html
+6d3d6605965f0848e64d3e3f71d5e950 *man/get_campaignmanager_data.Rd
+94921fa2a5957a1d3cf289f061423951 *man/my_campaignmanager_data.Rd
+4cb1293ce254e17801d8d620eb87fee1 *vignettes/my_campaignmanager_data.RData
+3b502df91d863beb9c3756a970b83741 *vignettes/tutorial.Rmd
